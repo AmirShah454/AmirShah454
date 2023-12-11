@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @AmirShah454
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me You can contact me through my email address: Syedamira6@gmail.com
+👋 Hey there, I'm Syed Amir!
 
-<!---
-AmirShah454/AmirShah454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I've done Computer Science at Master Level MS(CS) from National University of Modern Languages (NUML) Islamabad, Pakistan. 
+🚀 Aspiring Developer | Python Enthusiast | Coding Explorer
+
+🌐 **Languages:** Python (Mastering), C (Basic), Dart (Basic), HTML (Basic)
+
+📚 **Current Learning Focus:**
+- Mastering Python
+- Exploring Teaching at a High Level
+
+💬 **Let's Connect:**
+- LinkedIn https://www.linkedin.com/in/syedamir454/
+- Twitter: https://twitter.com/syedamir454
+
+⚡ **Fun Fact:**
+Always eager to learn new things and constantly pondering how they work! 🤔🌟
+
+**Excited about the world of coding and teaching, always open to new opportunities and collaborations! Let's build, learn, and grow together. 🚀**
